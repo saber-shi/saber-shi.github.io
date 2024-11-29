@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+**Hi there, I'm Siping Shi**
+======
+I am a postdoctoral fellow with the Department of Computing at The Hong Kong Polytechnic University. I obtained my Ph.D. degree in Nov. 2023 from the Hong Kong Polytechnic University (PolyU), supervised by [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/). Prior to that, I received my M.Sc. degree from the University of Chinese Academy of Sciences (UCAS) in 2017, supervised by [Prof. Cheng-Zhong Xu](https://www.fst.um.edu.mo/personal/czxu/), and my B.E. degree from Sichuan University (SCU) in 2014, all in Computer Science. Earlier before I did my Ph.D., I worked at Alibaba (China) for two years after UCAS.
+
+
 
 A data-driven personal website
 ======
