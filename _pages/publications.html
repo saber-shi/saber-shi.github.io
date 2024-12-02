@@ -9,28 +9,27 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<h4><sup>*</sup> indicates equal contribution (co-first authors)</h4>
+
 {% include base_path %}
+<p align = "justify"> 
+<h2>Journal articles</h2>
+<ol reversed>
+<li><strong>S. Shi</strong>, Y. Guo, D. Wang, Y. Zhu and Z. Han, "Distributionally Robust Federated Learning for Network Traffic Classification with Noisy Labels", in <i>IEEE Transactions on Mobile Computing (TMC)</i>, Sep., 2023. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+<li><strong>S. Shi</strong>, C. Hu, D. Wang, Y. Zhu and Z. Han, "Federated HD Map Updating Through Overlapping Coalition Formation Game", in <i>IEEE Transactions on Mobile Computing (TMC)</i>, Jan., 2023. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+<li><strong>S. Shi</strong>, C. Hu, D. Wang, Y. Zhu and Z. Han, "Federated Anomaly Analytics for Local Model Poisoning Attack", in <i>IEEE Journal of Selected Areas in Communications (JSAC)</i>, Feb., 2022. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+<li>D. Wang, <strong>S. Shi</strong>, Y. Zhu and Z. Han, ``Federated Analytics: Opportunities and Challenges", in <i>IEEE Network</i>, Jan./Feb. 2022. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+</ol>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Conference Papers</h2>
+<ol reversed>
+<li>T. Ling, <strong>S. Shi</strong>, H. Wang, C. Hu and D. Wang, ``Federated Morozov Regularization for Shortcut Learning in Privacy Preserving Learning with Watermarked Image Data", in <i>Proceedings of the 32nd ACM International Conference on Multimedia (MM)</i>, Melbourne, Australia, Oct. 28 - Nov. 1, 2024. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
+<li><strong>S. Shi</strong>, C. Hu, D. Wang, Y. Zhu and Z. Han, ``Distributionally Robust Federated Learning for Differentially Private Data", in <i>Proceedings of the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)</i>, Bologna, Italy, July 10-13, 2022. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
+<li>R. Lu<sup>*</sup>, <strong>S. Shi<sup>*</sup></strong>, D. Wang, C. Hu, and B. Zhang, ``Preva: Protecting Inference Privacy through Policy-based Video-frame Transformation", in <i>Proceedings of the 7th IEEE/ACM Symposium on Edge Computing (SEC)</i>, Seattle, WA, Dec. 05-08, 2022. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
+<li>B. Zhang, <strong>S. Shi</strong>, D. Wang, and C. Hu, ``EPC: a video analytics system with efficient edge-side privacy control", in <i>Proceedings of the 17th ACM Workshop on Mobility in the Evolving Internet Architecture (MobiArch)</i>, Sydney, Australia, Oct. 21, 2022. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+</ol>
+
+</p> 
