@@ -16,11 +16,11 @@ I am interested in the Trustworthy Distributed Artificial Intelligence (AI) syst
 
 Research Interests
 ======
-* Federated Learning/Analytics: Robustness and Privacy
 * Privacy-preserving Video Understanding with Vision Foundation Models
+* Federated Learning/Analytics: Robustness and Privacy
 * Distributed Artificial Intelligence (AI) systems
 * Edge Computing
 
 Recent News
 ======
-* <font color=red>(New!)</font> July 16, 2024: Our paper on Privacy Preserving Federated Learning with Watermarked Image Data was accepted by ACM MM 2024.
+* <font color=red>(New!)</font>July 16, 2024: Our paper on Privacy Preserving Federated Learning with Watermarked Image Data was accepted by ACM MM 2024.
