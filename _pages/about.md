@@ -14,13 +14,15 @@ I am a postdoctoral fellow with the Department of Computing at The Hong Kong Pol
 
 I am interested in the Trustworthy Distributed Artificial Intelligence (AI) systems, focusing on the aspects of privacy-preserving, robustness and efficiency. I am currently working on the privacy-preserving and efficient video understanding with Vision Foundation Models.
 
-Research Interests
-======
-* Privacy-preserving Video Understanding with Vision Foundation Models
-* Federated Learning/Analytics: Robustness and Privacy
-* Distributed Artificial Intelligence (AI) systems
-* Edge Computing
+<h2>Research Interests</h2>
+<ul>
+<li>Privacy-preserving Video Understanding with Vision Foundation Models</li>
+<li>Federated Learning/Analytics: Robustness and Privacy</li>
+<li>Distributed Artificial Intelligence (AI) systems</li>
+<li>Edge Computing</li>
+</ul>
 
-Recent News
-======
-* <font color=red>(New!)</font>July 16, 2024: Our paper on Privacy Preserving Federated Learning with Watermarked Image Data was accepted by ACM MM 2024.
+<h2>Recent News</h2>
+<ul>
+<li><font color=red>(New!)</font>July 16, 2024: Our paper on Privacy Preserving Federated Learning with Watermarked Image Data was accepted by ACM MM 2024.</li>
+</ul>
