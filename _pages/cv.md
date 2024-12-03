@@ -11,8 +11,8 @@ redirect_from:
 {% include base_path %}
 <h2>Education</h2>
 <ul>
-<li>Sep. 2020 - Nov. 2023: Ph.D. in Computer Science, The Hong Kong Polytechnic University, Hong Kong (Supervisor: [Prof. Dan Wang](https://www4.comp.polyu.edu.hk/~csdwang/)) </li>
-<li>Sep. 2014 - Jun. 2017: M.Sc. in Computer Application Technology, University of Chinese Academy of Sciences (UCAS), Beijing, China (Supervisor: [Prof. Cheng-Zhong Xu](https://www.fst.um.edu.mo/personal/czxu/)) </li>
+<li>Sep. 2020 - Nov. 2023: Ph.D. in Computer Science, The Hong Kong Polytechnic University, Hong Kong (Supervisor: <a href="https://www4.comp.polyu.edu.hk/~csdwang/" target="_blank" rel="noopener noreferrer">Prof. Dan Wang</a>) </li>
+<li>Sep. 2014 - Jun. 2017: M.Sc. in Computer Application Technology, University of Chinese Academy of Sciences (UCAS), Beijing, China (Supervisor: <a href="https://www.fst.um.edu.mo/personal/czxu/" target="_blank" rel="noopener noreferrer">Prof. Cheng-Zhong Xu</a>) </li>
 <li>Sep. 2010 - Jun. 2014: {B.E. in Computer Science And Technology, Sichuan University, Chengdu, China </li>
 </ul>
 
