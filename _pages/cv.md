@@ -9,6 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
+<p align = "justify"> 
 <h2>Education</h2>
 <ul>
 <li>Sep. 2020 - Nov. 2023: Ph.D. in Computer Science</li>
@@ -65,4 +66,4 @@ redirect_from:
 <li><strong>Merit Student Award and Excellent Student Cadre Award (2015)</strong></li>
   <i>Awarding body: University of Chinese Academy of Sciences</i>
 </ul>
-
+</p>
