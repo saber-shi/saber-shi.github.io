@@ -47,21 +47,13 @@ redirect_from:
 
 <h2>Selected Honors and Awards</h2>
 <ul>
-<li>National Scholarship (2011)</li>
-  <ul>
-  <li>Awarding body: Ministry of Education of the People's Republic of China</li>
-  </ul>
-<li>Excellent Students Award (2011, 2012)</li>
-  <ul>
-  <li>Awarding body: Sichuan University</li>
-  </ul>
-<li>Excellent Graduates Award (2013)</li>
-  <ul>
-  <li>Awarding body: Sichuan University</li>
-  </ul>
-<li>Merit Student Award and Excellent Student Cadre Award (2015)</li>
-  <ul>
-  <li>Awarding body: University of Chinese Academy of Sciences</li>
-  </ul>
+<li><strong>National Scholarship (2011)</strong></li>
+  <i>Awarding body: Ministry of Education of the People's Republic of China</i>
+<li><strong>Excellent Students Award (2011, 2012)</strong></li>
+  <i>Awarding body: Sichuan University</i>
+<li><strong>Excellent Graduates Award (2013)</strong></li>
+  <i>Awarding body: Sichuan University</i>
+<li><strong>Merit Student Award and Excellent Student Cadre Award (2015)</strong></li>
+  <i>Awarding body: University of Chinese Academy of Sciences</i>
 </ul>
 
