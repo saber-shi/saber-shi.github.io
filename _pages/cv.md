@@ -46,6 +46,8 @@ redirect_from:
 
 <h2>Services</h2>
 <ul>
+<li>Reviewer for ACM International Conference on Multimedia (ACM MM)</li>
+<li>Reviewer for IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)</li>
 <li>Reviewer for IEEE Transactions on Mobile Computing (IEEE TMC)</li>
 <li>Reviewer for IEEE Journal of Selected Areas in Communications (IEEE JSAC)</li>
 <li>Reviewer for IEEE International Conference on Computer Communications (IEEE INFOCOM)</li>
